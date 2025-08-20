@@ -1,8 +1,10 @@
+import Text from "./components/Text"
+
 function App() {
 
   return (
     <>
-      <h1></h1>
+      <Text>Olá mundo</Text>
     </>
   )
 }
